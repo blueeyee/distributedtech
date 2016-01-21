@@ -5,6 +5,11 @@ this is a test
 
 ##中文测试
 
+复选框
+
+- [x] a
+- [X] b
+
 ##关于作者
 
 ```javascript
