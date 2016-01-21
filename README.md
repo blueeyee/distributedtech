@@ -7,7 +7,7 @@ this is a test
 
 复选框
 
--[x] a
+- [x] a
 -[x] b
 
 ##关于作者
