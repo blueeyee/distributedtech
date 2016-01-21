@@ -17,10 +17,6 @@ this is a test
 内容1 |内容2 |内容3
 内容4 |内容5 |内容6
 
-表头1  | 表头2
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
 
 ##关于作者
 
